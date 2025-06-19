@@ -1,0 +1,6 @@
+{
+  "cust001": {
+    "api_key": "your-openrouter-key",
+    "model": "mistralai/mixtral-8x7b-instruct"
+  }
+}
